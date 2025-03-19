@@ -1,0 +1,1 @@
+rustc src/modulo1.rs -o modulo1 && ./modulo1 --> compilar arquivo especifico
